@@ -1,0 +1,30 @@
+​
+@font-face {
+    font-family: mi;
+    src: url(Donnabold\ Regular.ttf)
+    font-weight: bold;
+    font-size: normal;
+}
+h2 {
+    font-family: 'mi', Courier, monospace;
+}
+body{
+   
+    font-family: 'Inconsolata', monoespaçado;
+    background-color: rgb(161, 118, 201);
+   
+}
+img {
+    width: 200px;
+    height: 250px;
+    border-radius: 30%;
+}
+.container{
+    text-align: center;
+}
+.content{
+    padding: 50px;
+}
+p{
+    padding-left: 15px;
+}
